@@ -1,0 +1,11 @@
+OrderID,Product,Category,Price,Quantity,City
+1001,Laptop,Electronics,1200,2,Karachi
+1002,Phone,Electronics,800,5,Lahore
+1003,Headphones,Electronics,150,10,Karachi
+1004,Shoes,Fashion,100,7,Islamabad
+1005,Tshirt,Fashion,40,12,Lahore
+1006,Watch,Fashion,200,4,Karachi
+1007,Tablet,Electronics,600,3,Islamabad
+1008,Jacket,Fashion,120,6,Lahore
+1009,Camera,Electronics,900,2,Karachi
+1010,Sneakers,Fashion,110,8,Islamabad
